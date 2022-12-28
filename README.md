@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Jordan
 
-![jordan html description](https://raw.githubusercontent.com/jaymbans/jaymbans/main/jordanHTML.png)
+<img src='https://raw.githubusercontent.com/jaymbans/jaymbans/main/jordanHTML.png' style='width: 100%'>
+
 
 <hr>
 
