@@ -1,13 +1,8 @@
 ### Hi there 👋 I'm Jordan
 
-<img src='https://raw.githubusercontent.com/jaymbans/jaymbans/main/jordanHTML.png' style='width: 100%'>
-
-
 <hr>
 
-I'm Jordan, currently working as a **Technology Consultant** @ Deloitte. I am a **software developer** with a **passion for Web Development**. Whilst my time at Villanova University's School of Business I was fortunate enough to gain exposure to programming, allowing me to **implement custom automated solutions to historically manual financial processes**.
-
-Working full time as a Technology Consultant, I have expanded my industry knowledge outside of finance, working with clients in both the Healthcare and Real Estate Construction industries. From working with **SQL** and **Python** to **HTML** and **JavaScript**, I have been exposed to both the **Front End** and **Back End** Software Development Cycle.
+I'm Jordan, currently working as a **FullStack Developer** @ Alvarez & Marsal. I work in their FinTech group, building out custom digital solutions to financial processes.
 
 <h4>Best way to reach me is through</h4><a href='https://www.linkedin.com/in/jordan-mbanefo-80918916b/' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
 
