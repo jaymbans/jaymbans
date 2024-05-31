@@ -19,4 +19,4 @@ I'm Jordan, currently working as a **FullStack Developer** @ Alvarez & Marsal. I
 - <img alt='sql' src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white'>
 - <img alt='pyspark' src='https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg' style='height: 30px; width: auto'>
 
-### For more, you can check on <a href='http://www.jordanmbanefo.com/' target='_blank'>My Website</a>
+### For more, you can check on <a href='http://www.jordanmbanefo.dev/' target='_blank'>My Website</a>
